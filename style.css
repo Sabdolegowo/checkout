@@ -1,0 +1,51 @@
+.fnt {
+  font-family: "Comic Sans MS", "Comic Sans";
+}
+
+.bdy {
+  max-width: 75%;
+  border: 1px solid black;
+  margin: auto;
+  align-items: flex-start;
+}
+
+.head {
+  background-color: gainsboro;
+  border-bottom: 1px solid black;
+}
+
+.nav {
+  display: flex;
+  gap: 10px;
+  padding: 20px 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.ul1 {
+  margin-right: 50px;
+  display: flex;
+  list-style-type: none;
+}
+
+.a1 {
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.ul2 {
+  display: flex;
+  list-style-type: none;
+  gap: 10px;
+}
+.a2 {
+  background: rgb(236, 236, 236);
+  display: block;
+  box-shadow: rgb(129, 129, 129) 1px 1px 0, gray 1px 1px 0, gray 2px 2px 0,
+    gray 3px 3px 0, gray 4px 4px 0, gray 4px 4px 0, gray 5px 5px 0,
+    gray 6px 6px 0;
+}
+
+.hr {
+  color: gray;
+}
